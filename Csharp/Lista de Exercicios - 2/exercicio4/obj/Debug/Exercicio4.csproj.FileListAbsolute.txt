@@ -1,0 +1,6 @@
+c:\users\fatec\documents\visual studio 2015\Projects\Exercicio4\Exercicio4\bin\Debug\Exercicio4.exe.config
+c:\users\fatec\documents\visual studio 2015\Projects\Exercicio4\Exercicio4\bin\Debug\Exercicio4.exe
+c:\users\fatec\documents\visual studio 2015\Projects\Exercicio4\Exercicio4\bin\Debug\Exercicio4.pdb
+c:\users\fatec\documents\visual studio 2015\Projects\Exercicio4\Exercicio4\obj\Debug\Exercicio4.csprojResolveAssemblyReference.cache
+c:\users\fatec\documents\visual studio 2015\Projects\Exercicio4\Exercicio4\obj\Debug\Exercicio4.exe
+c:\users\fatec\documents\visual studio 2015\Projects\Exercicio4\Exercicio4\obj\Debug\Exercicio4.pdb
