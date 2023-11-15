@@ -1,0 +1,98 @@
+/* criando barra de navegação */
+body{
+    background-color: #b275ca;
+}
+/*barra navegação*/
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #470a5f;
+    z-index: 1000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px 20px;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: center; 
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+li a {
+    position: relative;
+    text-decoration: none;
+    padding: 12px 20px;
+    color: #fff;
+    font-weight: 500;
+}
+    
+li a:hover {
+    color: #be99cf;
+}
+/*fim barra navegação*/
+
+/*inicio apresentação*/
+#inicio { 
+    height: 100vh;
+    display: flex;
+}
+
+.altura-ajuste {
+    width: 100%;
+}
+
+.centralizador {
+    max-width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.apresentacao {
+    color: white;
+}
+
+.texto {
+    width: 100%;
+    font-size: 25px;
+    margin-left:100px;
+}
+
+.meu-nome {
+    font-size: 50px;
+}
+
+.desenho-perfil {
+    max-width: 450px;
+    max-height: 450px;
+    width: auto;
+    height: auto;
+    margin-left: auto; 
+    margin-top: 100px;
+    position: relative;
+    border-radius: 50%;
+}
+
+.redes-sociais {
+    width: 40%;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 70px;
+   
+}
+
+.redes-sociais a img {
+    max-width: 40px; 
+    max-height: 40px; 
+    margin: 5px;
+    
+}
+
+/*fim apresentação*/
